@@ -8,7 +8,7 @@ Developed by **Nethmi Samadhi** | NIBM School of Computing & Engineering
 ---
 
 <p align="center">
-  <img src="Docs/Images/health_monitor.jpeg" alt="Assembled ESP32 IoT Smart Health Monitor Prototype" width="500"/>
+  <img src="Docs/Images/health_monitor.jpeg" alt="Assembled ESP32 IoT Smart Health Monitor Prototype" width="300"/>
   <br>
   <em>Prototype Assembly: ESP32 NodeMCU, MAX30105 Biometric Sensor, DHT22/DS18B20 Environmental Probes, and Integrated Tilt/Accelerometer on a functional wearable harness.</em>
 </p>
